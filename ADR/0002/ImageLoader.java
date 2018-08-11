@@ -3,8 +3,6 @@
 * DESC: Load an image to an image view using Glide library
 **/
 
-package app.sqweeks.smellslikebakin;
-
 import android.content.Context;
 import android.widget.ImageView;
 
